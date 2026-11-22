@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="branding/linsql-logo.webp" alt="LinSQL" width="520">
+  <img width="2000" height="1342" alt="image" src="https://github.com/user-attachments/assets/6e47d054-8e34-4740-944d-0901b7f000f0" />
+
 </p>
 
 <p align="center">
